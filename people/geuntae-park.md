@@ -33,6 +33,6 @@ e-mail: qkrrmsxo01@hanyang.ac.kr
 박근태, 손채준, 이윤상<br>
 한국컴퓨터그래픽스학회 논문지, 제 26권 제 2호, 11-19, 2020.06.<br>
 <br>
-**Learning Time-series Interaction Data by Association**<br>
+**[Learning Time-series Interaction Data by Association](https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid.pdf)**<br>
 Geuntae Park, Yoonsang Lee<br>
 ICEIC 2021<br>
