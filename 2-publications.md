@@ -117,7 +117,9 @@ function onSelect() {
 		if(show)
 		{
 			contents_code += '<div class="12u 12u$(small)">';
-			contents_code += '<span class="image left"><img src={0} style="max-width: 220px; height: auto; " alt="" /></span>'.format(pub.representative_img);
+
+			// right (horizontal) & top (vertical) alignment
+			contents_code += '<span class="image left"><img src={0} style="width: 220px; height: 124px; object-fit:contain; object-position: 100% 0%" alt="" /></span>'.format(pub.representative_img);
 
 			if('project_page' in pub)
 				contents_code += '<b><a href={0} rel="noopener noreferrer" target="_blank">{1}</a></b><br/>'.format(pub.project_page, pub.title);
