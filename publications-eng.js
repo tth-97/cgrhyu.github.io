@@ -1,5 +1,14 @@
 var publications_eng = [
 	{
+		'title': 'Learning Time-series Interaction Data by Association',
+		'representative_img': 'assets/publications/domestic/2021-ICEIC-learning-tsid.png',
+		'year': 2021,
+		'authors': 'GeunTae Park, Yoonsang Lee',
+		'conference_journal_full': '2021 International Conference on Electronics, Information, and Communication (ICEIC), February 2021',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid.pdf">[article]</a>',
+		'type': 'extended_abstract',
+	},
+	{
 		'title': 'Finite State Machine-Based Motion-Free Learning of Biped Walking',
 		'representative_img': 'assets/publications/2021-fsm-learning/fsm-learning.jpg',
 		'conference_journal': 'Access',
@@ -9,15 +18,6 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1047" height="589" src="https://www.youtube.com/embed/jqgf-sHqCz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'project_page': 'publications/2021-fsm-learning.html',
 		'type': 'paper',
-	},
-	{
-		'title': 'Learning Time-series Interaction Data by Association',
-		'representative_img': 'assets/publications/domestic/2021-ICEIC-learning-tsid.png',
-		'year': 2021,
-		'authors': 'GeunTae Park, Yoonsang Lee',
-		'conference_journal_full': '2021 International Conference on Electronics, Information, and Communication (ICEIC), February 2021',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid.pdf">[article]</a>',
-		'type': 'extended_abstract',
 	},
 	{
 		'title': 'Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics',
