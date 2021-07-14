@@ -14,7 +14,7 @@ var publications_kor = [
         'year':2020,
         'authors': '이정민, 이윤상',
         'conference_journal_full':'컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.',
-        'additional':'<a href="https://gitcgr.hanyang.ac.kr/publications/2020-luxo/luxo-character-control-using-deep-reinforcement-learning.pdf">[article]</a>',
+        'additional':'<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-luxo.pdf">[article]</a>',
         'type':'paper',
     },
 	{
