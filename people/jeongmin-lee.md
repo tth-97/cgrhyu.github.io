@@ -39,4 +39,17 @@ Physically-Based Character Control<br>
 이정민, 이윤상 <br>
 컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.<br>
 </span>
+<br>
+<br>
+<br>
+</div>
+<div class="paper">
+<span class="image left" style="display:inline-block; width:220px;"> 
+<img src="../assets/publications/domestic/2021-kcgsjournal-2dtraj.png" style="max-width: 220px; height: 150px; " alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="http://kcgs2021.cg-korea.org/file/O32.pdf">2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성</a><br>
+이정민, 이윤상 <br>
+한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.<br>
+</span>
 </div>

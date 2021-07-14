@@ -1,5 +1,14 @@
 var publications_kor = [
     {
+        'title':'2D 이동 경로 지정을 통한 모션 매칭 기반 캐릭터 모션 생성',
+        'representative_img':'assets/publications/domestic/2021-kcgsjournal-2dtraj.png',
+        'year':2021,
+        'authors': '이정민, 이윤상',
+        'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.',
+        'additional': '<a href="http://kcgs2021.cg-korea.org/file/O32.pdf">[article]</a>',
+        'type': 'paper',
+    },
+    {
         'title':'심층 강화 학습을 이용한 Luxo 캐릭터의 제어',
         'representative_img':'assets/publications/domestic/2020-journalkcgs-luxo.png',
         'year':2020,
