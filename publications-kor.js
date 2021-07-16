@@ -14,8 +14,8 @@ var publications_kor = [
         'year':2021,
         'authors': '이정민, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.',
-        'additional': '<a href="http://kcgs2021.cg-korea.org/file/O32.pdf">[article]</a>',
-        'type': 'paper',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-2d-traj.pdf">[article]</a>',
+        'type': 'extended_abstract',
     },
     {
         'title':'심층 강화 학습을 이용한 Luxo 캐릭터의 제어',
