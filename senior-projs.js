@@ -1,5 +1,15 @@
 var senior_projs = [
 	{
+		'title': 'Softbody control learned using deep reinforcement learning',
+		'authors': '윤혜원, 허진, 백승수',
+		'project_page': 'courses/2021-spring-senior.html',
+		'id': 'teamA',
+		'year': 2021,
+		'season': 'spring',
+		'video_iframe': '<iframe width="1046" height="588" src="https://www.youtube.com/embed/NvzOV2tZHtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
 		'title': 'Physically simulated character controlled by SIMBICON algorithm in Dartpy and Blender environment',
 		'authors': '사정',
 		'project_page': 'courses/2020-fall-senior.html',
