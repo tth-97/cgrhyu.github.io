@@ -12,6 +12,7 @@ nav-menu: true
 <ul>
 <li><a href="courses/2021-spring-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Character Motion Synthesis and Character Control)</a></li>
 <li><a href="courses/2021-spring-senior.html">Senior Projects</a></li>
+<li><a href="courses/2021-spring-ces.html">GAF8040 Computer Engineering Seminar 1</a></li>
 </ul>
 
 <h3>2020 Fall</h3>
