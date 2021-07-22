@@ -7,7 +7,7 @@ show_tile: false
 
 * Instructor: [Yoonsang Lee](../people/yoonsang-lee.html)
 * Teaching Assistant: [Minkwan Kim](../people/minkwan-kim.html)
-* Undergraduate Mentor: Sa, Zheng 
+* Undergraduate Mentor: Si, Zheng 
 * Time / Location: 
   * Live online lectures and labs due to the COVID-19 pandemic.
   * Mon 09:00-11:00 / Online (originally 207 IT.BT Building) - Lecture
@@ -21,21 +21,21 @@ Students will practice the principles using the legacy OpenGL API in the lab ses
 
 ## Schedule
 
-|Topics   | Reference Materials |
-|---      | --- |
-|[1 - Course Intro] / [1 - Lab - Environment Setting] | |
-|[2 - Introduction to NumPy, OpenGL] / [2 - Lab - Gitlab] | |
-|[3 - Transformation 1]| |
-|[4 - Transformation 2] | |
-|[5 - Rendering Pipeline, Viewing & Projection 1] | [5-reference-viewing] |
-|[6 - Viewing & Projection 2, Mesh]| [6-reference-projection] |
-|[7 - Lighting & Shading]  | |
-|[8 - Hierarchical Modeling] | |
-|[9 - Orientation & Rotation] | [9-reference-naive-rotvec2rotmat]<br/> [9-reference-quaternions]<br/> [9-reference-rotmat-properties] |
-|[10 - Kinematics & Animation]  | |
-|[11 - Curves] | [11-reference-splines] |
-|[12 - More Lighting, Texture]  | |
-|[13 - Rasterization & Visibility]  | [13-reference-rasterization,clipping]<br/> [13-reference-RayTracing] |
+|Lecture #| Lecture / Lab Topics   | Reference Materials |
+|---      | ---                    | --- |
+|1        |[1 - Course Intro] / [1 - Lab - Environment Setting], Lab Assignment 1| |
+|2        |[2 - Introduction to NumPy, OpenGL] / [2 - Lab - Gitlab], Lab Assignment 2| |
+|3        |[3 - Transformation 1] / Lab Assignment 3| |
+|4        |[4 - Transformation 2] / Lab Assignment 4| |
+|5        |[5 - Rendering Pipeline, Viewing & Projection 1] / Lab Assignment 5 | [5-reference-viewing] |
+|6        |[6 - Viewing & Projection 2, Mesh] / Lab Assignment 6| [6-reference-projection] |
+|7        |[7 - Lighting & Shading] / Lab Assignment 7 | |
+|8        |[8 - Hierarchical Modeling] / Lab Assignment 8| |
+|9        |[9 - Orientation & Rotation] / Lab Assignment 9| [9-reference-naive-rotvec2rotmat]<br/> [9-reference-quaternions]<br/> [9-reference-rotmat-properties] |
+|10       |[10 - Kinematics & Animation] / Lab Assignment 10 | |
+|11       |[11 - Curves] / Lab Assignment 11| [11-reference-splines] |
+|12       |[12 - More Lighting, Texture]  | |
+|13       |[13 - Rasterization & Visibility]  | [13-reference-rasterization,clipping]<br/> [13-reference-RayTracing] |
 
 [1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2021-spring-cg/lecture-slides/1-CourseIntro.pdf
 [1 - Lab - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2021-spring-cg/lecture-slides/1-Lab-EnvSetting.pdf
@@ -96,7 +96,7 @@ Students will practice the principles using the legacy OpenGL API in the lab ses
 </div></div> 
 </div>
 </div>
-
+<br/>
 
 | [Class Assignment 3: Bvh Viewer] ([sample bvhs]) |
 
