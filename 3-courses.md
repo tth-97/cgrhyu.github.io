@@ -10,6 +10,7 @@ nav-menu: true
 
 <h3>2021 Spring</h3>
 <ul>
+<li><a href="courses/2021-spring-cg.html">CSE4020 Computer Graphics</a></li>
 <li><a href="courses/2021-spring-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Character Motion Synthesis and Character Control)</a></li>
 <li><a href="courses/2021-spring-senior.html">Senior Projects</a></li>
 <li><a href="courses/2021-spring-ces.html">GAF8040 Computer Engineering Seminar 1</a></li>
