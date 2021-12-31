@@ -54,3 +54,15 @@ Physically-Based Character Control
 한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 52-56, 2021.07.<br>
 </span>
 </div>
+<br>
+<div class="paper">
+<span class="image left" style="display:inline-block; width:220px;"> 
+<img src="../assets/publications/domestic/2021-kcgsjournal-state-representation.png" style="max-width: 220px; height: 150px; " alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation-paper.pdf">상태 표현 방식에 따른 심층 강화 학습 기반 캐릭터 제어기의 학습 성능 비교</a><br>
+손채준, 권태수, 이윤상 <br>
+한국컴퓨터그래픽스학회 2021년 학술대회 논문지, 제 27권 제 5호, 55-61, 2021.11.<br>
+</span>
+</div>
+
