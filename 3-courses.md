@@ -11,6 +11,7 @@ nav-menu: true
 <h3>2021 Fall</h3>
 <ul>
 <li><a href="courses/2021-fall-csd.html">ITE1015 Creative Software Design</a></li>
+<li><a href="courses/2021-fall-senior.html">Senior Projects</a></li>
 </ul>
 
 <h3>2021 Spring</h3>
