@@ -1,5 +1,14 @@
 var publications_eng = [
 	{
+		'title': 'Understanding the Stability of Deep Control Policies for Biped Locomotion ',
+		'representative_img': 'assets/publications/2022-stability-drl/teaser_small.jpg',
+		'year': 2022,
+		'authors': 'Hwangpil Park, Ri Yu, Yoonsang Lee, Kyungho Lee, Jehee Lee',
+		'conference_journal_full': 'The Visual Computer (2022)',
+		'project_page': 'https://mrl.snu.ac.kr/research/ProjectDeepStability/deepstability.htm',
+		'type': 'paper',
+	},
+	{
 		'title': 'Learning Time-series Interaction Data by Association',
 		'representative_img': 'assets/publications/domestic/2021-ICEIC-learning-tsid.png',
 		'year': 2021,
@@ -11,7 +20,6 @@ var publications_eng = [
 	{
 		'title': 'Finite State Machine-Based Motion-Free Learning of Biped Walking',
 		'representative_img': 'assets/publications/2021-fsm-learning/fsm-learning.jpg',
-		'conference_journal': 'Access',
 		'year': 2021,
 		'authors': 'Gyoo-Chul Kang, Yoonsang Lee',
 		'conference_journal_full': 'IEEE Access, Volume 9, 20662-20672, January 2021',
@@ -34,7 +42,6 @@ var publications_eng = [
 		'title': 'Control of an Iguana Character Using Soft-Body Simulation',
 		'representative_img': 'assets/publications/2018-iguana-ctrl/2018-iguana-ctrl.jpg',
 		'project_page': 'publications/2018-iguana-ctrl.html',
-		'conference_journal': 'Access',
 		'year': 2018,
 		'authors': 'Taesoo Kwon, Hoimin Kim, Yoonsang Lee',
 		'conference_journal_full': 'IEEE Access, Volume 6, 77931-77939, December 2018',
