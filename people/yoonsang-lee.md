@@ -54,20 +54,22 @@ Recent progress of simulation / control techniques allows us to further understa
 ## [Courses](../3-courses.html)
 
 
+<!--
 ## Engineering Interests
 Additionally, I'm interested in dealing with practical engineering problems with which one can easily face in development process in IT industries. I'd like to call some of them as my "engineering interests".
 
-**Development & Management for Libraries**  
+**Development & management for libraries**  
 Writing code for libraries for products is a totally different task from writing code for research. The code should be much more robust, handle all of the exceptional cases, and have enough test code. Public APIs should be carefully selected, since one should always consider backward compatibility on source and binary level once the API is opened.
 
-**Super-Easy Application Development**  
+**Super-easy application development**  
 The competitiveness of a platform is directly related to how many apps are available on it, how many developers are writing apps for it. I'm interested in developing the easiest application development process / environment in which even a novice user can make a commercial-level apps.
 
-**Effective Co-working through Network**  
+**Effective co-working through network**  
 The world is getting more and more connected, and it's also true for development processes. We're facing more and more chances to work with co-workers at different locations on the earth. I'm interested in how to maximize such co-working effectiveness using cooperative development tools such as git or gerrit.
 
-**Scripting to Remove Unnecessary Repetitive Work**  
+**Scripting to remove unnecessary repetitive work**  
 Focusing on their key competitiveness is always important for every person and company. But there usually are repetitive tasks that spend our time instead of focusing on key factors. With several years of intensive experiences of Python script language, I'm always trying to remove such tasks by writing scripts.
+-->
 
 ## Open Source Projects
 
