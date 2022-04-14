@@ -7,13 +7,13 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<span class="image left"><img src="../assets/people/yoonsang-lee/yoonsang-lee.png" alt="" /></span>
+		<span class="image left"><img src="../assets/people/yoonsang-lee/yoonsang-lee.jpg" alt="" /></span>
 
 <p/>
 <h2>Yoonsang Lee</h2>
 
 <p/>
-Assistant Professor
+Associate Professor
 
 <p/>
 <a target="_blank" rel="noopener noreferrer" href="http://cs.hanyang.ac.kr/">Department Of Computer Science</a>
@@ -26,26 +26,29 @@ yoonsanglee@hanyang.ac.kr
 	</div>
 </section>
 
-I am an assistant professor in the [Department Of Computer Science](http://cs.hanyang.ac.kr/) at [Hanyang University](https://www.hanyang.ac.kr/).
+I am an associate professor in the [Department Of Computer Science](http://cs.hanyang.ac.kr/) at [Hanyang University](https://www.hanyang.ac.kr/).
 
 From 2016-2017. I was an assistant professor at School of Software of Kwangwoon University in Seoul, Korea. Before my academic career, I worked for Software Center (SWC) of Samsung Electronics in 2014-2015 as a senior engineer, and participated in the development of Tizen OS. I received my Ph.D. degree in computer science from Seoul National University in 2014 and B.S. degree in mechanical and aerospace engineering from Seoul National University in 2007.
 
 [CV](https://gitcgr.hanyang.ac.kr/people/yoonsang-lee/CV_Yoonsang_Lee.pdf)
 
 ## Research Interests
-I've been interested in a wide range of topics about various types of movements and their underlying mechanisms, in from virtual environment to real-world. In addition, computational design using 3d printers draws my interest these days.
+I've been interested in a wide range of topics about various types of movements and their underlying mechanisms, in from virtual environment to real-world.
+<!--In addition, computational design using 3d printers draws my interest these days.-->
 
-**Physically-Based Character Control**  
-We haven't seen a game with fully-simulated characters although the character control technique has been dramatically advanced for recent 10 years. Even state-of-art controllers cannot deal with every situation a character might meet and are not enoughly robust to be employed by such real-time interactive commercial products. I strongly believe there is much room for improvement of those techniques.
+**Learning control policies for virtual characters / physical robots**  
+Although character control technology has made great strides in recent years using deep reinforcement learning, we've never seen a game with fully simulated characters.
+Even state-of-art controllers cannot deal with every situation a character might meet and are not enoughly robust to be employed by such real-time interactive commercial products. I believe there is much room for improvement of those techniques.
 
-**Understanding Human Body / Movement**  
+From global IT companies to general public, robots are getting more attention these days. Among various robots, I have a major interest in humanoid robots, as they are human-friendly and can use human tools. Based on my experience on controllers in virtual world, I'm doing research on the learning of control policies for real-world robots with a focus on the naturalness of motion that can be related to efficiency and safety.
+
+**Generative models for human motion synthesis**  
+With the rapid development of deep learning technology, human motion synthesis is also advancing to an unprecedented level. 
+Beyond the more natural, responsive, and easily controlled single-person character motion synthesis, which is the traditional goal of character animation studies, I'm trying to develop techniques that go beyond the existing results in various aspects such as the number of characters, the realism of the movements, and the intelligent aspects of the character movements.
+
+**Simulating human body / movement mechanisms**  
 Recent progress of simulation / control techniques allows us to further understand humans. For example, we can simulate human walking with musculoskeletal system and estimate importance of each muscle. This approach can be valuable for relevant areas such as biomechanics or medical field. More understanding of humans also allows us to enhance movements of virtual characters or humanoid robots.
 
-**Humanoid robots**  
-From global IT companies to general public, robots are getting more attention these days. Among various robots, I have a major interest in humanoid robots, as they are human-friendly and can use human tools. Based on my experience on controllers in virtual world, I'm planning to design controllers for real-world humanoid robots focusing on the naturalness of motion, which can be related to efficiency and safety.
-
-**Computational Design**  
-3D printing is getting more popular and its applications are getting wider. Now 3D printers can print toys, food, bicycles, automobiles, parts of a jet engine, and building blocks for a house. It's lowering the entry barriers for manufacturing, thus the number of hardware startups is rapidly increasing these days. I believe we're seeing the beginning of a new era of designing, prototyping, and manufacturing. From a research point of view, there are plenty of chances to develop novel techniques / applications using 3D printing.
 
 ## [Publications](../2-publications.html)
 ## [Courses](../3-courses.html)
@@ -68,7 +71,7 @@ Focusing on their key competitiveness is always important for every person and c
 
 ## Open Source Projects
 
-### My Own Projects
+### Personal Projects
 
 *Vim Plug-ins*  
 - [QFEnter](https://github.com/yssl/QFEnter): Open a Quickfix item in a selected window.
