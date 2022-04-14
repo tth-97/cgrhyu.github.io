@@ -17,7 +17,7 @@
 			> :nth-child(2n - 1) {
 				@include padding(4em, 0, (0, 3em, 0, 0));
 				border-right: solid 1px _palette(border);
-				width: 60%;
+				width: 80%;
 				z-index: 1;
 			}
 
