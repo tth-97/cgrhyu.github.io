@@ -21,6 +21,13 @@
       max-width: 100%;
 			margin-bottom: _size(element-margin);
 
+			// to remove underlines for hyper-linked headings in "major" header class
+			h1, h2, h3, h4, h5, h6 {
+				a {
+					border-bottom: 0;
+				}
+			}
+
 			> :first-child {
 				  margin-bottom: 0;
 				  width: calc(100% + 0.5em);
