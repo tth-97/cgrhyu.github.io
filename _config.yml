@@ -4,7 +4,7 @@ subtitle: "@ Hanyang University"
 email: 
 description: Our research group aims to understand various aspects (movements, structure designs, underlying mechanisms, etc.) of natural or artificial creatures (humans, animals,  robots, etc.) and realize them in from virtual environment to real world.
 baseurl: # the subpath of your site, e.g. /blog
-url: https://cgrhyu.github.io/ # the base hostname & protocol for your site
+url: https://cgrhyu.github.io # the base hostname & protocol for your site
 author:
 street_address: # hard-coded to footer.htm
 city: # hard-coded to footer.htm
