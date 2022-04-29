@@ -12,8 +12,8 @@ Our research group aims to understand various aspects (movements, structure desi
 
 Our research interests include:
 
-* Learning control policies for virtual characters / physical robots
-* Generative models for human motion synthesis
+* Deep control policies for virtual characters / physical robots
+* Deep motion synthesis
 * Simulating human body / movement mechanisms
 * Other cutting-edge computer graphics / robotics technologies
 
