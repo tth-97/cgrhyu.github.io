@@ -1,4 +1,13 @@
 var publications_kor = [
+	{
+		'title': 'Character Animation Basics',
+		'representative_img': 'assets/publications/domestic/2022-kcgs-summerschool-character_animation_basics.png',
+		'year': 2022,
+		'authors': '이윤상',
+		'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 여름학교, 2022.07.',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-summerschool-character_animation_basics-public.pdf">[slides]</a>',
+		'type': 'talk',
+	},
     {
         'title':'상태 표현 방식에 따른 심층 강화 학습 기반 캐릭터 제어기의 학습 성능 비교',
         'representative_img':'assets/publications/domestic/2021-kcgsjournal-state-representation.png',
