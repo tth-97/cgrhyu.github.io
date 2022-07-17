@@ -10,22 +10,27 @@ show_tile: false
 		<span class="image left"><img src="../assets/people/jeongmin-lee/jeongmin-lee.jpg" alt="" /></span>
 
 <h2>Jeongmin Lee</h2>
-
-B.S in Computer Science, Hanyang University, Seoul, Korea, Feb.2020<br>
-Room 111, R&D Building<br>
+Software Engineer of Samsung Research, Seoul, Korea, Sep.2022~<br>
 e-mail: j0064423@hanyang.ac.kr
 <p/>
 
-<a target="_blank" rel="noopener noreferrer" href="http://cs.hanyang.ac.kr/">Department Of Computer Science</a>
-<br/>
-<a target="_blank" rel="noopener noreferrer" href="https://www.hanyang.ac.kr/">Hanyang University</a>
+    </div>
 
-
-	</div>
 </section>
 
+## Education
+B.S in Computer Science, Hanyang University, Seoul, Korea, Feb.2020<br>
+M.S in Computer Science, Hanyang University, Seoul, Korea, Aug.2022<br>
+
+## Experience
+Software Engineer Intern at NAVER(Whale browser/FE), Seoul, Korea, Jul.2018-Aug.2018<br>
+Undergraduate Researcher at CGR lab, Hanyang University, Seoul, Korea, Sep.2018-Feb.2020<br>
+
+
 ## Research Interests
+Data-driven Character Animation<br>
 Physically-Based Character Control<br>
+Deep Reinforcement Learning
 <br>
 <br>
 <br>
