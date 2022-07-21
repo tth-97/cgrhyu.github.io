@@ -36,3 +36,8 @@ e-mail: qkrrmsxo01@hanyang.ac.kr
 **[Learning Time-series Interaction Data by Association](https://gitcgr.hanyang.ac.kr/publications/domestic/2021-iceic-learning-tsid.pdf)**<br>
 Geuntae Park, Yoonsang Lee<br>
 ICEIC 2021<br>
+<br>
+**[데이터 기반 심층강화학습을 통한 모션 생성](https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-DataDrivenDRL.pdf)**<br>
+박근태, 이윤상<br>
+한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 34-35, 2022.07.<br>
+<br>
