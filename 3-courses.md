@@ -8,6 +8,12 @@ nav-menu: true
 <section id="one">
 <div class="inner">
 
+<h3>2022 Spring</h3>
+<ul>
+<li><a href="courses/2022-spring-cg.html">CSE4020 Computer Graphics</a></li>
+<li><a href="courses/2022-spring-acg.html">CSW6026 Advanced Computer Graphics</a></li>
+</ul>
+
 <h3>2021 Fall</h3>
 <ul>
 <li><a href="courses/2021-fall-csd.html">ITE1015 Creative Software Design</a></li>
