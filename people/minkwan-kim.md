@@ -27,3 +27,17 @@ e-mail: palkan21@hanyang.ac.kr
 ## Research Interests
 Physically-Based Character Control
 <br>Deep Neural Network
+<br>
+<br>
+<br>
+## Publications
+<div class="paper">
+<span class="image left">
+<img src="../assets/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.png" style="max-width: 220px; height: auto; " alt="" />
+</span>
+<span class="info right">
+<a target="_black" rel="noopener noreferrer" href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.pdf">참조 모션을 사용하지 않는 근골격계 캐릭터의 보행 모션 학습</a><br>
+김민관, 이윤상<br>
+한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 61-62, 2022.07.<br>
+</span>
+</div>
