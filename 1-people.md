@@ -68,32 +68,32 @@ nav-menu: true
 <div class="row">
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-female.png" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Bokyoung Jang</b>
+		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Bokyeong Jang</b>
 		<font size="3">장보경</font><br/>
 	</p>
 	</div>
 
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-male.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Jiwon Lee</b>
+		<span class="image left"><img src="assets/people/jiwon-yi/jiwon-yi.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Jiwon Yi</b>
 		<font size="3">이지원</font><br/>
 	</p>
 	</div>
 
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-male.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Hawook Nam</b>
+		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Hauk Nam</b>
 		<font size="3">남하욱</font><br/>
 	</p>
 	</div>
 
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-female.png" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Inyoung Park</b>
+		<span class="image left"><img src="assets/people/inyeong-park/inyeong-park.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Inyeong Park</b>
 		<font size="3">박인영</font><br/>
 	</p>
 	</div>
