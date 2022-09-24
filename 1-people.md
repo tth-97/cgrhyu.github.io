@@ -53,7 +53,7 @@ nav-menu: true
 
 	<div class="4u 12u$(small)">
 	<p>
-		<span class="image left"><img src="assets/people/unknown-female.png" style="max-width: 200px; height: auto; " alt="" /></span>
+		<span class="image left"><img src="assets/people/minji-kang/minji-kang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/minji-kang.html">Minji Kang</a></b>
 		<font size="3">강민지</font><br/>
 	    alswl7763@hanyang.ac.kr<br/>
