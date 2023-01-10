@@ -1,5 +1,36 @@
 var senior_projs = [
 	{
+		'title': 'Neural Animation Layering (NAL) implementation',
+		'authors': '이지원',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team1',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/1Pl1mb--sDY" title="Neural Animation Layering (NAL) implementation (2022 Senior Project)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Motion synthesis using motion matching and DRL',
+		'authors': '장보경, 김현수',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team2',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/B_m8i0uA2GY" title="한양대학교 컴퓨터 소프트웨어학부 졸업프로젝트 영상 (team2: 김현수, 장보경)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Building a Korean speech dataset for MakeItTalk',
+		'authors': 'Wan, Amin, Afif',
+		'project_page': 'courses/2022-fall-senior.html',
+		'id': 'team4',
+		'year': 2022,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/sR13Rc8cFYU" title="[GradProj Team 4] Korean MakeItTalk Result Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+
+	{
 		'title': 'Phase Functioned Neural Network (PFNN) implementation',
 		'authors': '오시환, 허산',
 		'project_page': 'courses/2021-fall-senior.html',
@@ -39,6 +70,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1046" height="588" src="https://www.youtube.com/embed/XRvudJxH3-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	{
 		'title': 'Softbody control learned using deep reinforcement learning',
 		'authors': '윤혜원, 허진, 백승수',
@@ -49,6 +81,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1046" height="588" src="https://www.youtube.com/embed/NvzOV2tZHtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	{
 		'title': 'Physically simulated character controlled by SIMBICON algorithm in Dartpy and Blender environment',
 		'authors': '사정',
@@ -89,6 +122,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/fQ-Zf69X4Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	//{
 		//'title': 'Phase-Functioned Neural Network in Unreal Engine 4',
 		//'authors': '이상옥, 구교민, 유지원',
