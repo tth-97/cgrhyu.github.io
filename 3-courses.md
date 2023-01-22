@@ -10,6 +10,7 @@ nav-menu: true
 
 <h3>2022 Fall</h3>
 <ul>
+<li><a href="courses/2022-fall-pbl.html">PBL4001 COMPUTER SCIENCE Capstone PBL(Character Motion Synthesis and Character Control)</a></li>
 <li><a href="courses/2022-fall-senior.html">Senior Projects</a></li>
 </ul>
 

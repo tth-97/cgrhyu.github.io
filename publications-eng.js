@@ -4,7 +4,7 @@ var publications_eng = [
 		'representative_img': 'assets/publications/2022-stability-drl/teaser_small.jpg',
 		'year': 2022,
 		'authors': 'Hwangpil Park, Ri Yu, Yoonsang Lee, Kyungho Lee, Jehee Lee',
-		'conference_journal_full': 'The Visual Computer (2022), January 2022',
+		'conference_journal_full': 'The Visual Computer, Volume 39, 473-487, January 2022',
 		'project_page': 'https://mrl.snu.ac.kr/research/ProjectDeepStability/deepstability.htm',
 		'type': 'paper',
 	},
