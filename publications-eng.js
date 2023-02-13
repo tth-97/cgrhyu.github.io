@@ -1,5 +1,15 @@
 var publications_eng = [
 	{
+		'title': 'Interactive Character Path-Following Using Long-Horizon Motion Matching With Revised Future Queries',
+		'representative_img': 'assets/publications/2023-path-following/representative.png',
+		'year': 2023,
+		'authors': 'Jeongmin Lee, Taesoo Kwon, Yoonsang Lee',
+		'conference_journal_full': 'IEEE Access, Volume 11, 9942-9956, January 2023',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'project_page': 'publications/2023-path-following.html',
+		'type': 'paper',
+	},
+	{
 		'title': 'Understanding the Stability of Deep Control Policies for Biped Locomotion ',
 		'representative_img': 'assets/publications/2022-stability-drl/teaser_small.jpg',
 		'year': 2022,
