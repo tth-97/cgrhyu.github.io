@@ -47,7 +47,7 @@ nav-menu: true
 		<span class="image left"><img src="assets/people/minkwan-kim/minkwan-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/minkwan-kim.html">Minkwan Kim</a></b>
 		<font size="3">김민관</font><br/>
-	    palkan21@hanyang.ac.kr<br/>
+		palkan21@hanyang.ac.kr<br/>
 	</p>
 	</div>
 
@@ -56,7 +56,16 @@ nav-menu: true
 		<span class="image left"><img src="assets/people/minji-kang/minji-kang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b><a href="people/minji-kang.html">Minji Kang</a></b>
 		<font size="3">강민지</font><br/>
-	    alswl7763@hanyang.ac.kr<br/>
+		alswl7763@hanyang.ac.kr<br/>
+	</p>
+	</div>
+	
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/jiwon-yi/jiwon-yi.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/jiwon-yi.html">Jiwon Yi</a></b>
+		<font size="3">이지원</font><br/>
+		babap8514@gmail.com<br/>
 	</p>
 	</div>
 
@@ -71,14 +80,6 @@ nav-menu: true
 		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Bokyeong Jang</b>
 		<font size="3">장보경</font><br/>
-	</p>
-	</div>
-
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/jiwon-yi/jiwon-yi.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Jiwon Yi</b>
-		<font size="3">이지원</font><br/>
 	</p>
 	</div>
 
