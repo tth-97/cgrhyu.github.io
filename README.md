@@ -1,1 +1,1 @@
-# Computer Graphics and Robotics Lab. @ Hanyang University
+# Computer Graphics & Robotics Lab. @ Hanyang University

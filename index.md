@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Computer Graphics and Robotics Lab.'
+landing-title: 'Computer Graphics & Robotics Lab.'
 description: null
 image: null
 author: null
@@ -26,3 +26,5 @@ Our research interests include:
 * 인체의 근육을 모델링하여 스포츠 동작을 시뮬레이션 하고 싶다.
 * 내 코드에 의해 움직이는 실제 로봇을 다뤄보고 싶다.
 * 이 모든 과정을 충실한 단위테스트로 뒷받침되는, 좋은 설계에 기반한 좋은 코드로 구현하고 싶다.
+
+**Youtube channel: [https://www.youtube.com/@cgrlab/](https://www.youtube.com/@cgrlab/)**
