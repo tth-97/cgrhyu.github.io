@@ -28,9 +28,9 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 |1        |[1 - Course Intro] / [1 - Lab - Environment Setting]|
 |2        |[2 - Rendering Basics] / [2 - Lab - Hello Triangle]|
 |3        |[3 - Transformations] / [3 - Lab - Sending Data to Shaders]|
-|4        | |
-|5        | |
-|6        | |
+|4        |[4 - Affine Space Frame Matrix] / [4 - Lab - 2D Transformations, Affine Space Frame Matrix]|
+|5        |[5 - Vertex Processing 1] / [5 - Lab - 3D Transformations, Vertex Processing 1]|
+|6        |[6 - Vertex Processing 2] / [6 - Lab - Vertex Processing 2]|
 |7        | |
 |8        | |
 |9        | |
@@ -45,6 +45,12 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 [2 - Lab - Hello Triangle]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/2 - Lab - Hello Triangle.pdf
 [3 - Transformations]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/3 - Transformations.pdf
 [3 - Lab - Sending Data to Shaders]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/3 - Lab - Sending Data to Shaders.pdf
+[4 - Affine Space Frame Matrix]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/4 - Affine Space Frame Matrix.pdf
+[4 - Lab - 2D Transformations, Affine Space Frame Matrix]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/4 - Lab - 2D Transformations, Affine Space Frame Matrix.pdf
+[5 - Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Vertex Processing 1.pdf
+[5 - Lab - 3D Transformations, Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Lab - 3D Transformations, Vertex Processing 1.pdf
+[6 - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Vertex Processing 2.pdf
+[6 - Lab - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Lab - Vertex Processing 2.pdf
 
 ## Projects
 
