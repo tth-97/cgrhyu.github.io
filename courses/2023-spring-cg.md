@@ -31,8 +31,8 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 |4        |[4 - Affine Space Frame Matrix] / [4 - Lab - 2D Transformations, Affine Space Frame Matrix]|
 |5        |[5 - Vertex Processing 1] / [5 - Lab - 3D Transformations, Vertex Processing 1]|
 |6        |[6 - Vertex Processing 2] / [6 - Lab - Vertex Processing 2]|
-|7        | |
-|8        | |
+|7        |[7 - Hierarchical Modeling, Mesh] / [7 - Lab - Hierarchical Modeling, Mesh]|
+|8        |[8 - Lighting] / [8 - Lab- Lighting]|
 |9        | |
 |10       | |
 |11       | |
@@ -50,7 +50,10 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 [5 - Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Vertex Processing 1.pdf
 [5 - Lab - 3D Transformations, Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Lab - 3D Transformations, Vertex Processing 1.pdf
 [6 - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Vertex Processing 2.pdf
-[6 - Lab - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Lab - Vertex Processing 2.pdf
+[7 - Hierarchical Modeling, Mesh]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/7 - Hierarchical Modeling, Mesh.pdf
+[7 - Lab - Hierarchical Modeling, Mesh]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/7 - Lab - Hierarchical Modeling, Mesh.pdf
+[8 - Lighting]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/8 - Lighting.pdf
+[8 - Lab- Lighting]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/8 - Lab- Lighting.pdf
 
 ## Projects
 
