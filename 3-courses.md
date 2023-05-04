@@ -11,6 +11,7 @@ nav-menu: true
 <h3>2023 Spring</h3>
 <ul>
 <li><a href="courses/2023-spring-cg.html">CSE4020 Computer Graphics <i><b>(with Modern OpenGL)</b></i> × 2</a></li>
+<li><a href="courses/2023-spring-senior.html">Senior Projects</a></li>
 </ul>
 
 <h3>2022 Fall</h3>
