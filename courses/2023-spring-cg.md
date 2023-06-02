@@ -33,10 +33,10 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 |6        |[6 - Vertex Processing 2] / [6 - Lab - Vertex Processing 2]|
 |7        |[7 - Hierarchical Modeling, Mesh] / [7 - Lab - Hierarchical Modeling, Mesh]|
 |8        |[8 - Lighting] / [8 - Lab- Lighting]|
-|9        | |
-|10       | |
-|11       | |
-|12       | |
+|9        |[9 - Orientation & Rotation] / [9 - Lab - Orientation & Rotation]|
+|10       |[10 - Character Animation] / [10 - Lab - Character Animation]|
+|11       |[11 - Curves] / [11 - Lab - Curves]|
+|12       |[12 - More Lighting, Texture] / [12 - Lab - Texture Mapping]|
 |13       | |
 
 [1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/1 - Course Intro.pdf
@@ -50,10 +50,19 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 [5 - Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Vertex Processing 1.pdf
 [5 - Lab - 3D Transformations, Vertex Processing 1]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/5 - Lab - 3D Transformations, Vertex Processing 1.pdf
 [6 - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Vertex Processing 2.pdf
+[6 - Lab - Vertex Processing 2]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/6 - Lab - Vertex Processing 2.pdf
 [7 - Hierarchical Modeling, Mesh]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/7 - Hierarchical Modeling, Mesh.pdf
 [7 - Lab - Hierarchical Modeling, Mesh]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/7 - Lab - Hierarchical Modeling, Mesh.pdf
 [8 - Lighting]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/8 - Lighting.pdf
 [8 - Lab- Lighting]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/8 - Lab- Lighting.pdf
+[9 - Orientation & Rotation]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/9 - Orientation & Rotation.pdf
+[9 - Lab - Orientation & Rotation]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/9 - Lab - Orientation & Rotation.pdf
+[10 - Character Animation]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/10 - Character Animation.pdf
+[10 - Lab - Character Animation]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/10 - Lab - Character Animation.pdf
+[11 - Curves]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/11 - Curves.pdf
+[11 - Lab - Curves]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/11 - Lab - Curves.pdf
+[12 - More Lighting, Texture]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/12 - More Lighting, Texture.pdf
+[12 - Lab - Texture Mapping]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/12 - Lab - Texture Mapping.pdf
 
 ## Projects
 
