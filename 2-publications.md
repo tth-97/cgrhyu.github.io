@@ -23,6 +23,7 @@ Type:
 <select id="type_select" onChange="onSelect()">
   <option value='all'>ALL</option>
   <option value='paper'>Full Paper</option>
+  <option value='poster'>Poster</option>
   <option value='extended_abstract'>Extended Abstract</option>
   <option value='talk'>Talk</option>
 </select>
@@ -103,6 +104,8 @@ function onSelect() {
 		if(show)
 		{
 			if(type=='paper' && (pub.type=='paper'))
+				show = true;
+			else if(type=='poster' && (pub.type=='poster'))
 				show = true;
 			else if(type=='extended_abstract' && (pub.type=='extended_abstract'))
 				show = true;

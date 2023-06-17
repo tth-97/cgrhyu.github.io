@@ -37,7 +37,7 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 |10       |[10 - Character Animation] / [10 - Lab - Character Animation]|
 |11       |[11 - Curves] / [11 - Lab - Curves]|
 |12       |[12 - More Lighting, Texture] / [12 - Lab - Texture Mapping]|
-|13       | |
+|13       |[13 - Scan Conversion, Visibility]|
 
 [1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/1 - Course Intro.pdf
 [1 - Lab - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/1 - Lab - Environment Setting.pdf
@@ -63,6 +63,7 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 [11 - Lab - Curves]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/11 - Lab - Curves.pdf
 [12 - More Lighting, Texture]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/12 - More Lighting, Texture.pdf
 [12 - Lab - Texture Mapping]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/12 - Lab - Texture Mapping.pdf
+[13 - Scan Conversion, Visibility]: https://gitcgr.hanyang.ac.kr/courses/2023-spring-cg/lecture-slides/13 - Scan Conversion, Visibility.pdf
 
 ## Projects
 
