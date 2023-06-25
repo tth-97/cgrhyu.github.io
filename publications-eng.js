@@ -6,7 +6,7 @@ var publications_eng = [
 		'year': 2023,
 		'conference_journal_full': 'To be appeared in SIGGRAPH 2023 Posters',
 		'representative_img': 'assets/publications/2023-learning-human-like/rep-human-like.jpg',
-		//'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-learning-human-like.html',
 		'type': 'poster',
 	},
