@@ -108,6 +108,8 @@ function onSelect() {
 
 			if(item.type=='paper')
 				typestr = 'Paper';
+			else if(item.type=='poster')
+				typestr = 'Poster';
 			else if(item.type=='senior')
 				typestr = 'Senior Project';
 			else if(item.type=='pbl')
