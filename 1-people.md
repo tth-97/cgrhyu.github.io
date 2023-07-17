@@ -107,6 +107,22 @@ nav-menu: true
 	</p>
 	</div>
 
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/haewoo-lee/haewoo-lee.PNG" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Haewoo Lee</b>
+		<font size="3">이해우</font><br/>
+	</p>
+	</div>
+
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b>Minwoo Park</b>
+		<font size="3">박민우</font><br/>
+	</p>
+	</div>
+
 </div>
 
 <p/>
