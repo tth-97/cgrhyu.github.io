@@ -67,9 +67,65 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 
 ## Projects
 
-| Project 1 |
+| Project 1: Basic OpenGL Viewer |
 
-| Project 2 |
+| Project 2: Obj Viewer & Hierarchical Modeling |
 
-| Project 3 |
+<div class="row">
+<div class="6u 12u$(small)">
+김태현
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/tTlfOM6IRNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+</div>
 
+<div class="6u 12u$(small)">
+김동성
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/ZlPELwEG7jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+</div>
+
+<div class="6u 12u$(small)">
+박성현
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/2Be3joW1RpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+</div>
+
+<div class="6u 12u$(small)">
+박민우
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/Hh5EhvrDuzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div> 
+</div>
+
+<div class="6u 12u$(small)">
+신기섭
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/6UdXAzZpIR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div> 
+</div>
+
+</div>
+<br/>
+
+| Project 3: Bvh Viewer |
+
+
+<div class="row">
+<div class="6u 12u$(small)">
+진민서
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/EheYFe-VVMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+</div>
+
+<div class="6u 12u$(small)">
+신기섭
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/viFzqMDgS7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+</div>
+
+</div>
