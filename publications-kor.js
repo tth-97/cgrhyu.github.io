@@ -1,4 +1,12 @@
 var publications_kor = [
+    {   'title': '핵심 관절 궤적을 이용한 캐릭터 애니메이션 편집 및 합성',
+        'representative_img':'assets/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.png',
+        'year': 2023,
+        'authors': '이지원, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, xx-xx, 2023.07.  <br> <i>우수논문상 - 우수상</i>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.pdf">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '참조 동작을 사용하지 않는 근골격계 캐릭터의 보행 모션 학습',
         'representative_img':'assets/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.png',
         'year': 2022,
