@@ -41,3 +41,7 @@ ICEIC 2021<br>
 박근태, 이윤상<br>
 한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 34-35, 2022.07.<br>
 <br>
+**[사용자 멀티 터치 입력을 통한 캐릭터 이동 모션 생성](https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-MultiTouch.pdf)**<br>
+박근태, 이지원, 이윤상<br>
+한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 47-48, 2023.07.<br>
+<br>

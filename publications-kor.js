@@ -1,4 +1,12 @@
 var publications_kor = [
+    {   'title': '사용자 멀티 터치 입력을 통한 캐릭터 이동 모션 생성',
+        'representative_img':'assets/publications/domestic/2023-kcgs-MultiTouch.png',
+        'year': 2023,
+        'authors': '박근태, 이지원, 이윤상',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 47-48, 2023.07.',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-MultiTouch.pdf">[article]</a>',
+        'type': 'extended_abstract',
+    },
     {   'title': '핵심 관절 궤적을 이용한 캐릭터 애니메이션 편집 및 합성',
         'representative_img':'assets/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.png',
         'year': 2023,
