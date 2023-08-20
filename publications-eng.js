@@ -1,5 +1,16 @@
 var publications_eng = [
 	{
+		'title': 'Adaptive Tracking of a Single-Rigid-Body Character in Various Environments',
+		'authors': 'Taesoo Kwon, Taehong Gu, Jaewon Ahn, Yoonsang Lee',
+		'conference_journal': 'SIGGRAPH Asia',
+		'year': 2023,
+		'conference_journal_full': 'Conditionally accepted to SIGGRAPH Asia 2023',
+		'representative_img': 'assets/publications/2023-adaptive-tracking/thumb-adaptive-tracking.jpg',
+		//'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		//'project_page': 'publications/2023-learning-human-like.html',
+		'type': 'paper',
+	},
+	{
 		'title': 'Learning Human-like Locomotion Based on Biological Actuation and Rewards',
 		'authors': 'Minkwan Kim, Yoonsang Lee',
 		'conference_journal': 'SIGGRAPH',
