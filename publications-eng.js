@@ -15,7 +15,7 @@ var publications_eng = [
 		'authors': 'Minkwan Kim, Yoonsang Lee',
 		'conference_journal': 'SIGGRAPH',
 		'year': 2023,
-		'conference_journal_full': 'To be appeared in SIGGRAPH 2023 Posters',
+		'conference_journal_full': 'SIGGRAPH \'23: ACM SIGGRAPH 2023 Posters, Article No.: 5, July 2023',
 		'representative_img': 'assets/publications/2023-learning-human-like/rep-human-like.jpg',
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-learning-human-like.html',
