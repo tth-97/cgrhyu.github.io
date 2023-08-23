@@ -68,6 +68,15 @@ nav-menu: true
 		babap8514@gmail.com<br/>
 	</p>
 	</div>
+	
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/chanwoo-baek/chanwoo-baek.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/chanwoo-baek.html">Chanwoo Baek</a></b>
+		<font size="3">백찬우</font><br/>
+		bcw0430@hanyang.ac.kr<br/>
+	</p>
+	</div>
 
 </div>
 
