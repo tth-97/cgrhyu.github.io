@@ -36,12 +36,6 @@ nav-menu: true
 	</p>
 	</div>
 
-</div>
-
-<p/>
-
-<h2>M.S. Students</h2>
-<div class="row">
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minkwan-kim/minkwan-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -50,7 +44,12 @@ nav-menu: true
 		palkan21@hanyang.ac.kr<br/>
 	</p>
 	</div>
+</div>
 
+<p/>
+
+<h2>M.S. Students</h2>
+<div class="row">
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minji-kang/minji-kang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
