@@ -67,6 +67,17 @@ nav-menu: true
 		babap8514@gmail.com<br/>
 	</p>
 	</div>
+
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/bokyeong-jang.html">Bokyeong Jang</a></b>
+		<font size="3">장보경</font><br/>
+		jbok6825@naver.com<br/>
+	</p>
+	</div>
+</div>
+<div class="row">
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -82,15 +93,7 @@ nav-menu: true
 <p/>
 
 <h2>Undergraduate Students</h2>
-<div class="row">
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/bokyeong-jang/bokyeong-jang.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Bokyeong Jang</b>
-		<font size="3">장보경</font><br/>
-	</p>
-	</div>
-
+<div class="row">	
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -114,6 +117,8 @@ nav-menu: true
 		<font size="3">박민우</font><br/>
 	</p>
 	</div>
+</div>
+<div class="row">
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -123,7 +128,7 @@ nav-menu: true
 	</p>
 	</div>
 	
-        <div class="4u 12u$(small)">
+    <div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Yumin Lee</b>
