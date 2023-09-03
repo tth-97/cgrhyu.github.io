@@ -78,6 +78,14 @@ nav-menu: true
 	</div>
 </div>
 <div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/eunho-jung.html">Eunho Jung</a></b>
+		<font size="3">정은호</font><br/>
+		jho6394@hanyang.ac.kr<br/>
+	</p>
+	</div>
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -94,13 +102,6 @@ nav-menu: true
 
 <h2>Undergraduate Students</h2>
 <div class="row">	
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/eunho-jung/eunho-jung.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Eunho Jung</b>
-		<font size="3">정은호</font><br/>
-	</p>
-	</div>
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -117,8 +118,6 @@ nav-menu: true
 		<font size="3">박민우</font><br/>
 	</p>
 	</div>
-</div>
-<div class="row">
 	
 	<div class="4u 12u$(small)">
 	<p>
@@ -127,6 +126,8 @@ nav-menu: true
 		<font size="3">이해우</font><br/>
 	</p>
 	</div>
+</div>
+<div class="row">
 	
     <div class="4u 12u$(small)">
 	<p>
