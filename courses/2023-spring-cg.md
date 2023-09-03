@@ -107,6 +107,13 @@ Unlike in previous years, modern OpenGL is used in the lab sessions and assignme
 </div></div> 
 </div>
 
+<div class="6u 12u$(small)">
+나지연
+<div id="iframe_container"> <div id="iframe">
+<iframe width="320" height="320" src="https://www.youtube.com/embed/EUOids_3ASM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div> 
+</div>
+
 </div>
 <br/>
 
