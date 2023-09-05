@@ -96,6 +96,15 @@ nav-menu: true
 	</p>
 	</div>
 
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/minsu-kim/minsu-kim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/minsu-kim.html">Minsu Kim</a></b>
+		<font size="3">김민수</font><br/>
+		igotaspot426@gmail.com<br/>
+	</p>
+	</div>
+
 </div>
 
 <p/>
