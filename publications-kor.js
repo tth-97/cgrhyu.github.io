@@ -11,7 +11,7 @@ var publications_kor = [
         'representative_img':'assets/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.png',
         'year': 2023,
         'authors': '이지원, 이윤상',
-        'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 45-46, 2023.07.  <br> <i>우수논문상 - 우수상</i>',
+        'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 45-46, 2023.07. <i>[우수논문상 - 우수상]</i>',
         'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.pdf">[article]</a>',
         'type': 'extended_abstract',
     },
