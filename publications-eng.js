@@ -7,7 +7,7 @@ var publications_eng = [
 		'conference_journal_full': 'To be appeared in SIGGRAPH Asia 2023',
 		'representative_img': 'assets/publications/2023-adaptive-tracking/thumb-adaptive-tracking.jpg',
 		//'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
-		//'project_page': 'publications/2023-learning-human-like.html',
+		'project_page': 'http://calab.hanyang.ac.kr/papers/adaptiveSRB.html',
 		'type': 'paper',
         'additional': '<a href="https://arxiv.org/abs/2308.07491">[arXiv]</a>',
 	},
