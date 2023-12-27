@@ -30,7 +30,7 @@ Spinning example:
 - 1/4 speed - [mov](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/spin_0.25x.mov) (4.7MB) 
 
 ## Slides
-SIGGRAPH 2010 talk slides: [pptx](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pptx) (2.3MB, without video) / [zip](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/with_video.zip) (132.7MB, with video)
+SIGGRAPH 2010 talk slides: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides.pdf) (0.7MB) / [pptx](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides-with-video.zip) (132.7MB, with video)
 
 ## Data
 Reference motion capture data : [zip](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010_motion.zip) (0.7MB) 
