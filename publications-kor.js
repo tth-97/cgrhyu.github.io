@@ -4,7 +4,7 @@ var publications_kor = [
         'year': 2023,
         'authors': '강민지, 이윤상',
         'conference_journal_full': '2023 한국소프트웨어종합학술대회 논문집, 1246-1248, 2023.12.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-ksc-toss-and-load.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-ksc-toss-and-load.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '사용자 멀티 터치 입력을 통한 캐릭터 이동 모션 생성',
