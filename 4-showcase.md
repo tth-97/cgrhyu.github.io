@@ -105,7 +105,7 @@ function onSelect() {
 		{
 			if(showCount % 2 == 0)
 				contents_code += '<div class="row">';
-
+/*
 			if(item.type=='paper')
 				typestr = 'Paper';
 			else if(item.type=='poster')
@@ -114,12 +114,13 @@ function onSelect() {
 				typestr = 'Senior Project';
 			else if(item.type=='pbl')
 				typestr = 'PBL Project';
+*/
 			contents_code += '<div class="6u 12u$(small)">';
 			if('id' in item)
 				project_page = item.project_page + '#' + item.id;
 			else
 				project_page = item.project_page
-			contents_code += '<b><a href={0}>{1} ({2} {3})</a></b><br/>'.format(project_page, item.title, item.year, typestr);
+			contents_code += '<b><a href={0} rel="noopener noreferrer" target="_blank">{1} ({2})</a></b><br/>'.format(project_page, item.title, item.year);
 			contents_code += '<div id="iframe_container"> <div id="iframe">';
 			contents_code += '{0}'.format(item.video_iframe);;
 			contents_code += '</div></div>';

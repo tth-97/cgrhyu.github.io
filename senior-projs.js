@@ -1,8 +1,30 @@
 var senior_projs = [
+
+	{
+		'title': 'Wave pool simulation using Nvidia Flex',
+		'authors': '남하욱',
+		'project_page': 'courses/2023-fall-senior.html',
+		'id': 'team1',
+		'year': 2023,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1062" height="792" src="https://www.youtube.com/embed/X2OtQHLQgcg?list=PLbozGChVFTne9z-zWxLwzIQw_EJlq47lD" title="남하욱 졸업 프로젝트 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+	{
+		'title': 'Implementing "A Practical Model for Realistic Butterfly Flight Simulation"',
+		'authors': 'Vitoria, Aidyl, Khairul',
+		'project_page': 'courses/2023-fall-senior.html',
+		'id': 'team3',
+		'year': 2023,
+		'season': 'fall',
+		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/1ckxzQvioCU?list=PLbozGChVFTne9z-zWxLwzIQw_EJlq47lD" title="Team 3 - Graduation Project - Butterfly Realistic Flight Simulation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+		'type': 'senior',
+	},
+
 	{
 		'title': 'Implementing "A Practical Model for Realistic Butterfly Flight Simulation"',
 		'authors': '정은호, 차다윤',
-		'project_page': 'courses/2022-fall-senior.html',
+		'project_page': 'courses/2023-spring-senior.html',
 		'id': 'teamC',
 		'year': 2023,
 		'season': 'spring',
@@ -19,6 +41,7 @@ var senior_projs = [
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/AuDIXVIe0os" title="Motion Matching을 이용한 interactive character control demo 구현 (졸업프로젝트)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'type': 'senior',
 	},
+
 	{
 		'title': 'Implementing "Neural Animation Layering for Synthesizing Martial Arts Movements" (NAL)',
 		'authors': '이지원',

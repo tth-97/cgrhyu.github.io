@@ -4,7 +4,7 @@ var publications_kor = [
         'year': 2023,
         'authors': '박근태, 이지원, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 47-48, 2023.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-MultiTouch.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-MultiTouch.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '핵심 관절 궤적을 이용한 캐릭터 애니메이션 편집 및 합성',
@@ -12,7 +12,7 @@ var publications_kor = [
         'year': 2023,
         'authors': '이지원, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2023년 학술대회 논문집, 45-46, 2023.07. <i>[우수논문상 - 우수상]</i>',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2023-kcgs-animBasedOnKeyjointTrajectory.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '참조 동작을 사용하지 않는 근골격계 캐릭터의 보행 모션 학습',
@@ -20,7 +20,7 @@ var publications_kor = [
         'year': 2022,
         'authors': '김민관, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 61-62, 2022.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-NoRefMusculoSkeletalLocomotion.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '데이터 기반 심층강화학습을 통한 모션 생성',
@@ -28,7 +28,7 @@ var publications_kor = [
         'year': 2022,
         'authors': '박근태, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 34-35, 2022.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-DataDrivenDRL.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-DataDrivenDRL.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '심층 강화 학습과 모션 매칭을 이용한 캐릭터 애니메이션 생성',
@@ -36,7 +36,7 @@ var publications_kor = [
         'year': 2022,
         'authors': '이정민, 권태수, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 65-66, 2022.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-drlMotionMatching.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-drlMotionMatching.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {   'title': '모션 매칭을 활용한 상호작용적 캐릭터 경로 추적',
@@ -44,7 +44,7 @@ var publications_kor = [
         'year': 2022,
         'authors': '이정민, 권태수, 이윤상',
         'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 논문집, 36-37, 2022.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-interactivePathFollowing.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-interactivePathFollowing.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
 	{
@@ -53,7 +53,7 @@ var publications_kor = [
 		'year': 2022,
 		'authors': '이윤상',
 		'conference_journal_full': '한국컴퓨터그래픽스학회 2022년 학술대회 여름학교, 2022.07.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-summerschool-character_animation_basics-public.pdf">[slides]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2022-kcgs-summerschool-character_animation_basics-public.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>',
 		'type': 'talk',
 	},
     {
@@ -62,7 +62,7 @@ var publications_kor = [
         'year':2021,
         'authors': '손채준, 권태수, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 논문지, 제 27권 제 4호, 55-61, 2021.11.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation-paper.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation-paper.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'paper',
     },
     {
@@ -71,7 +71,7 @@ var publications_kor = [
         'year':2021,
         'authors': '손채준, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 52-56, 2021.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-state-representation.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {
@@ -80,7 +80,7 @@ var publications_kor = [
         'year':2021,
         'authors': '이정민, 이윤상',
         'conference_journal_full':'한국컴퓨터그래픽스학회 2021년 학술대회 논문집, 68-69, 2021.07.',
-        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-2d-traj.pdf">[article]</a>',
+        'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2021-kcgs-2d-traj.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type': 'extended_abstract',
     },
     {
@@ -89,7 +89,7 @@ var publications_kor = [
         'year':2020,
         'authors': '이정민, 이윤상',
         'conference_journal_full':'컴퓨터그래픽스학회논문지, 제26권 제4호, 1-8, 2020.09.',
-        'additional':'<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-luxo.pdf">[article]</a>',
+        'additional':'<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-luxo.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
         'type':'paper',
     },
 	{
@@ -98,7 +98,7 @@ var publications_kor = [
 		'year': 2020,
 		'authors': '박근태, 손채준, 이윤상',
 		'conference_journal_full': '한국컴퓨터그래픽스학회 논문지, 제 26권 제 2호, 11-19, 2020.06.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-motion-com.pdf">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2020-kcgsjournal-motion-com.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
 		'type': 'paper',
 	},
 	{
@@ -107,7 +107,7 @@ var publications_kor = [
 		'year': 2019,
 		'authors': '강규철, 권태수, 이윤상',
 		'conference_journal_full': '한국컴퓨터그래픽스학회 2019년 학술대회 논문집, 26-27, 2019.07.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-kcgs-learning-fsm.pdf">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-kcgs-learning-fsm.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
 		'type': 'extended_abstract',
 	},
 	{
@@ -116,8 +116,8 @@ var publications_kor = [
 		'year': 2019,
 		'authors': '이윤상',
 		'conference_journal_full': 'Proceeding of 2019 SNU Orthopaedic Update(II): Pediatric Orthopaedics, 115-122, 2019.06.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-orthopaedic-walking-basic-slides.pdf">[slides]</a>'+
-					' <a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-orthopaedic-walking-basic.pdf">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-orthopaedic-walking-basic-slides.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>'+
+					' <a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2019-orthopaedic-walking-basic.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
 		'type': 'talk',
 	},
 	{
@@ -126,7 +126,7 @@ var publications_kor = [
 		'year': 2017,
 		'authors': '이윤상',
 		'conference_journal_full': '컴퓨터그래픽스학회논문지, 제23권 제2호, 23-27, 2017.06.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2017-kcgsjournal-inter-leg.pdf">[article]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2017-kcgsjournal-inter-leg.pdf" rel="noopener noreferrer" target="_blank">[article]</a>',
 		'type': 'paper',
 	},
 	{
@@ -135,7 +135,7 @@ var publications_kor = [
 		'year': 2016,
 		'authors': '이윤상',
 		'conference_journal_full': '한국컴퓨터그래픽스학회 2016년 학술대회 초청강연, 2016.07.',
-		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2016-kcgs-make-it-walk.pdf">[slides]</a>',
+		'additional': '<a href="https://gitcgr.hanyang.ac.kr/publications/domestic/2016-kcgs-make-it-walk.pdf" rel="noopener noreferrer" target="_blank">[slides]</a>',
 		'type': 'talk',
 	},
 
