@@ -106,20 +106,22 @@ nav-menu: true
 	</div>
 
 </div>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/hauk-nam.html">Hauk Nam</a></b>
+		<font size="3">남하욱</font><br/>
+		namhoyog@naver.com<br/>
+	</p>
+	</div>
+</div>
+
 
 <p/>
 
 <h2>Undergraduate Students</h2>
 <div class="row">	
-	
-	<div class="4u 12u$(small)">
-	<p>
-		<span class="image left"><img src="assets/people/hauk-nam/hauk-nam.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Hauk Nam</b>
-		<font size="3">남하욱</font><br/>
-	</p>
-	</div>
-	
 	<div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
@@ -135,30 +137,22 @@ nav-menu: true
 		<font size="3">이해우</font><br/>
 	</p>
 	</div>
-</div>
-<div class="row">
-	
-    <div class="4u 12u$(small)">
-    <p>
+        
+        <div class="4u 12u$(small)">
+        <p>
 		<span class="image left"><img src="assets/people/yumin-lee/yumin-lee.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Yumin Lee</b>
 		<font size="3">이유민</font><br/>
-    </p>
-    </div>
-        
+        </p>
+        </div>
+</div>
+<div class="row">
+
     <div class="4u 12u$(small)">
     <p>
 		<span class="image left"><img src="assets/people/jaykyoon-yim/jaykyoon-yim.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Jaykyoon Yim</b>
 		<font size="3">임재균</font><br/>
-    </p>
-    </div>
-
-    <div class="4u 12u$(small)">
-    <p>
-		<span class="image left"><img src="assets/people/vitoria-baldan/vitoria-baldan.jpeg" style="max-width: 200px; height: auto; " alt="" /></span>
-		<b>Vitoria Ongaratto Baldan</b><br/>
-		<font size="3">비토리아</font><br/>
     </p>
     </div>
 
