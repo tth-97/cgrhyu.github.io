@@ -38,20 +38,19 @@ In this course the students will learn the fundamentals of C++ language and prac
 | 14 | [13 - Exception Handling] / Assignment 13  | |
 | 15 | Final Exam| |
 
-[1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1-CourseIntro.pdf
-[1 - Lab1 - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1-Lab1-EnvSetting.pdf
-[1 - Lab1 - Vim Advanced]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1-Lab1-reference-VimAdvanced.pdf
-[1 - Lab2 - G++, Make, GDB]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1-Lab2-g++,make,gdb.pdf
-[2 - Review of C Pointer, Const and Structure]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/2-Review of C Pointer, Const and Structure.pdf
-[2 - Lab - Gitlab]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/2-Lab-Gitlab.pdf
-[3 - Differences Between C and C++]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/3-Differences Between C and C++.pdf
-[4 - Dynamic Memory Allocation, References]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/4-Dynamic Memory Allocation, References.pdf
-[5 - Compilation and Linkage, CMD Args]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/5-Compilation and Linkage, CMD Args.pdf
-[6 - Class]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/6-Class.pdf
-[7 - Standard Template Library(STL)]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/7-Standard Template Library.pdf
-[8 - Inheritance, Const & Class]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/8-Inheritance, Const & Class.pdf
-[9 - Polymorphism 1]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/9-Polymorphism 1.pdf
-[10 - Polymorphism 2]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/10-Polymorphism 2.pdf
-[11 - Copy Constructor, Operator Overloading]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/11-Copy Constructor, Operator Overloading.pdf
-[12 - Template]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/12-Template.pdf
-[13 - Exception Handling]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/13-ExceptionHandling.pdf
+[1 - Course Intro]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1 - Course Intro.pdf
+[1 - Lab1 - Environment Setting]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1 - Lab1 - Environment Setting, Vim.pdf
+[1 - Lab1 - Vim Advanced]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1 - Lab1 - Reference - Vim Advanced.pdf
+[1 - Lab2 - G++, Make, GDB]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/1 - Lab2 - G++, Make, GDB.pdf
+[2 - Review of C Pointer, Const and Structure]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/2 - Review of C Pointer, Const and Structure.pdf
+[3 - Differences Between C and C++]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/3 - Differences Between C and C++.pdf
+[4 - dYNAMIC mEmory Allocation, References]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/4 - Dynamic Memory Allocation, References.pdf
+[5 - Compilation and Linkage, CMD Args]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/5 - Compilation and Linkage, CMD Args.pdf
+[6 - Class]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/6 - Class.pdf
+[7 - Standard Template Library(STL)]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/7 - Standard Template Library.pdf
+[8 - Inheritance, Const & Class]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/8 - Inheritance, Const & Class.pdf
+[9 - Polymorphism 1]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/9 - Polymorphism 1.pdf
+[10 - Polymorphism 2]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/10 - Polymorphism 2.pdf
+[11 - Copy Constructor, Operator Overloading]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/11 - Copy Constructor, Operator Overloading.pdf
+[12 - Template]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/12 - Template.pdf
+[13 - Exception Handling]: https://gitcgr.hanyang.ac.kr/courses/2023-fall-csd/lecture-slides/13 - Exception Handling.pdf
