@@ -12,8 +12,8 @@ IEEE Access (2023)
 We propose a method for interactively generating a character motion that follows a user-specified path based on motion matching. Unlike basic motion matching that finds the best frame considering only the current state and current control input, our long-horizon motion matching algorithm is performed recursively over multiple levels and finds the matching path that minimizes the total distance, to find the best frame for a longer future interval. The matching query is carefully revised from the raw query directly extracted from the user path to address the following aspects: inherent differences between an actual moving path of a human and a user-drawn path, and possible user errors such as a path drawn with excessive speed or with abrupt changes in direction. Also, two interactive control modes for path-following characters are proposed. The combination of our long-horizon motion matching and carefully revised queries enables smooth and reliable interactive path tracking for a variety of paths. We show the effectiveness of our method using various experiments such as path-following with different shaped paths, game-like interactive control demos, and ablation studies.
 
 ## Paper
-Download: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029373) (5.9MB)  
-[IEEE Xplore page](https://ieeexplore.ieee.org/document/10029373)
+Publisher link: [IEEE Xplore](https://ieeexplore.ieee.org/document/10029373)\
+Open access paper: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029373) (5.9MB)  
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">

@@ -15,7 +15,8 @@ SIGGRAPH 2010
 We present a dynamic controller to physically simulate under-actuated three-dimensional full-body biped locomotion. Our data-driven controller takes motion capture reference data to reproduce realistic human locomotion through realtime physically based simulation. The key idea is modulating the reference trajectory continuously and seamlessly such that even a simple dynamic tracking controller can follow the reference trajectory while maintaining its balance. In our framework, biped control can be facilitated by a large array of existing data-driven animation techniques because our controller can take a stream of reference data generated on-the-fly at runtime. We demonstrate the effectiveness of our approach through examples that allow bipeds to turn, spin, and walk while steering its direction interactively. 
 
 ## Paper
-Download: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pdf) (1.4MB)
+Publisher link: [ACM Digital Library](https://dl.acm.org/doi/10.1145/1778765.1781155)\
+Preprint: [pdf](https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pdf) (1.4MB)
 
 ## Video 
 <div id="iframe_container"> <div id="iframe">

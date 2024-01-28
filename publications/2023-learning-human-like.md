@@ -40,11 +40,8 @@ We introduce randomized starting position of lifting either left or right leg at
 ![](../assets/publications/2023-learning-human-like/muscle-human-like.png)
 We use hill-type muscle actuated model(left of the figure) which is composed of fiber and tendon, where muscle force is calculated by muscle length, muscle velocity and muscle activations via equation. And then, calculated muscle force is applied between path points(right of the figure) attached to each rigid link.
 
-## Paper 
-[Download paper pdf](https://dl.acm.org/doi/pdf/10.1145/3588028.3603646)  
-[Download supplement material pdf](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=supp.pdf)  
-[Download conference poster pdf](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf)  
-[ACM digital library link](https://dl.acm.org/doi/abs/10.1145/3588028.3603646)  
-
-
-
+## Paper & Poster
+Publisher link: [ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3588028.3603646)\
+Preprint: [pdf](https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-preprint.pdf) (0.4MB)\
+Supplementary document: [pdf](https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-supp.pdf) (1.3MB)\
+Poster: [pdf](https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-poster.pdf) (1.3MB)

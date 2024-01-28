@@ -21,7 +21,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-learning-human-like.html',
 		'type': 'poster',
-        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3588028.3603646" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/QPGUvpJm_Hk" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf" rel="noopener noreferrer" target="_blank">[poster]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3588028.3603646" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-preprint.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/QPGUvpJm_Hk" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf" rel="noopener noreferrer" target="_blank">[poster]</a>',
 	},
 	{
 		'title': 'Interactive Character Path-Following Using Long-Horizon Motion Matching With Revised Future Queries',
@@ -32,7 +32,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-path-following.html',
 		'type': 'paper',
-        'additional': '<a href="https://ieeexplore.ieee.org/document/10029373" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/N357UBDALpw" rel="noopener noreferrer" target="_blank">[video]</a>',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/10029373" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029373" rel="noopener noreferrer" target="_blank">[paper]</a> <a href="https://youtu.be/N357UBDALpw" rel="noopener noreferrer" target="_blank">[video]</a>',
 	},
 	{
 		'title': 'Understanding the Stability of Deep Control Policies for Biped Locomotion ',
@@ -42,7 +42,7 @@ var publications_eng = [
 		'conference_journal_full': 'The Visual Computer, Volume 39, 473-487, January 2022',
 		'project_page': 'https://mrl.snu.ac.kr/research/ProjectDeepStability/deepstability.htm',
 		'type': 'paper',
-        'additional': '<a href="https://link.springer.com/article/10.1007/s00371-021-02342-9" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://github.com/snumrl/DeepPushRecovery" rel="noopener noreferrer" target="_blank">[code]</a>',
+        'additional': '<a href="https://link.springer.com/article/10.1007/s00371-021-02342-9" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://arxiv.org/abs/2007.15242" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://github.com/snumrl/DeepPushRecovery" rel="noopener noreferrer" target="_blank">[code]</a>',
 	},
 	{
 		'title': 'Learning Time-series Interaction Data by Association',
@@ -62,7 +62,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1047" height="589" src="https://www.youtube.com/embed/jqgf-sHqCz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'project_page': 'publications/2021-fsm-learning.html',
 		'type': 'paper',
-        'additional': '<a href="https://ieeexplore.ieee.org/document/9337805" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/jqgf-sHqCz0" rel="noopener noreferrer" target="_blank">[video]</a>',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/9337805" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9337805" rel="noopener noreferrer" target="_blank">[paper]</a> <a href="https://youtu.be/jqgf-sHqCz0" rel="noopener noreferrer" target="_blank">[video]</a>',
 	},
 	{
 		'title': 'Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics',
@@ -74,7 +74,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1280" height="749" src="https://www.youtube.com/embed/fGwMrRoC5bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'project_page': 'http://calab.hanyang.ac.kr/papers/flexLoco.html',
 		'type': 'paper',
-        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3386569.3392432" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/fGwMrRoC5bw" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://github.com/taesoobear/IPCDNNwalk" rel="noopener noreferrer" target="_blank">[code]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3386569.3392432" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="http://calab.hanyang.ac.kr/papers/paper_flexLoco.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/fGwMrRoC5bw" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://github.com/taesoobear/IPCDNNwalk" rel="noopener noreferrer" target="_blank">[code]</a>',
 	},
 	{
 		'title': 'Control of an Iguana Character Using Soft-Body Simulation',
@@ -85,7 +85,7 @@ var publications_eng = [
 		'conference_journal_full': 'IEEE Access, Volume 6, 77931-77939, December 2018',
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/c37VEexDZaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://ieeexplore.ieee.org/document/8555550" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/c37VEexDZaY" rel="noopener noreferrer" target="_blank">[video]</a>',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/8555550" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8555550" rel="noopener noreferrer" target="_blank">[paper]</a> <a href="https://youtu.be/c37VEexDZaY" rel="noopener noreferrer" target="_blank">[video]</a>',
 	},
 	{
 		'title': 'Performance-Based Biped Control using a Consumer Depth Camera',
@@ -97,7 +97,7 @@ var publications_eng = [
 		'conference_journal_full': 'Computer Graphics Forum (Eurographics 2017), Volume 36 Issue 2, 387-395, May 2017',
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/WVDPXdlnhBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13134" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/WVDPXdlnhBM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
+        'additional': '<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13134" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-preprint.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/WVDPXdlnhBM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 	{
 		'title': 'Push-Recovery Stability of Biped Locomotion',
@@ -109,7 +109,7 @@ var publications_eng = [
 		'conference_journal_full': 'ACM Transactions on Graphics (SIGGRAPH Asia 2015), Volume 34 Issue 6, Article No. 180, November 2015',
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/KrTDh5Zhlac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://dl.acm.org/doi/10.1145/2816795.2818124" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/KrTDh5Zhlac" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/10.1145/2816795.2818124" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/KrTDh5Zhlac" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2015-push-recovery/push-recovery-slides.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 	{
 		'title': 'Locomotion Control for Many-Muscle Humanoids',
@@ -121,7 +121,7 @@ var publications_eng = [
 		'conference_journal_full': 'ACM Transactions on Graphics (SIGGRAPH Asia 2014), Volume 33 Issue 6, Article No. 218, November 2014',
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/O0zxRbZ_kNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://dl.acm.org/doi/10.1145/2661229.2661233" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/O0zxRbZ_kNM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2014-many-muscle/many-muscle-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2014-many-muscle/many-muscle-slides.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/10.1145/2661229.2661233" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2014-many-muscle/many-muscle.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/O0zxRbZ_kNM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2014-many-muscle/many-muscle-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2014-many-muscle/many-muscle-slides.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 	{
 		'title': 'Data-Driven Biped Control',
@@ -133,6 +133,6 @@ var publications_eng = [
 		'conference_journal_full': 'ACM Transactions on Graphics (SIGGRAPH 2010), Volume 29 Issue 4, Article No. 129, July 2010',
 		'video_iframe': '<iframe width="1017" height="765" src="https://www.youtube.com/embed/hpeqxc_1vwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://dl.acm.org/doi/10.1145/1778765.1781155" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://youtu.be/hpeqxc_1vwo" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides-with-video.zip" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/10.1145/1778765.1781155" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/DataDrivenBipedControl_2010.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/hpeqxc_1vwo" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2010-data-driven/ddbc-slides-with-video.zip" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 ]
