@@ -21,7 +21,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/QPGUvpJm_Hk" title="Learning Human-like Locomotion Based on Biological Actuation and Rewards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-learning-human-like.html',
 		'type': 'poster',
-        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3588028.3603646" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2023-learning-human-like/learning-human-like-preprint.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/QPGUvpJm_Hk" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf" rel="noopener noreferrer" target="_blank">[poster]</a>',
+        'additional': '<a href="https://dl.acm.org/doi/abs/10.1145/3588028.3603646" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="http://arxiv.org/abs/2401.15664" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://youtu.be/QPGUvpJm_Hk" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3588028.3603646&file=poster-v2.pdf" rel="noopener noreferrer" target="_blank">[poster]</a>',
 	},
 	{
 		'title': 'Interactive Character Path-Following Using Long-Horizon Motion Matching With Revised Future Queries',
@@ -97,7 +97,7 @@ var publications_eng = [
 		'conference_journal_full': 'Computer Graphics Forum (Eurographics 2017), Volume 36 Issue 2, 387-395, May 2017',
 		'video_iframe': '<iframe width="1280" height="720" src="https://www.youtube.com/embed/WVDPXdlnhBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
 		'type': 'paper',
-        'additional': '<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13134" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-preprint.pdf" rel="noopener noreferrer" target="_blank">[preprint]</a> <a href="https://youtu.be/WVDPXdlnhBM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
+        'additional': '<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13134" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://arxiv.org/abs/2401.15523" rel="noopener noreferrer" target="_blank">[arXiv]</a> <a href="https://youtu.be/WVDPXdlnhBM" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pdf" rel="noopener noreferrer" target="_blank">[slides-pdf]</a> <a href="https://gitcgr.hanyang.ac.kr/publications/2017-perf-based/perf-biped-v2-public.pptx" rel="noopener noreferrer" target="_blank">[slides-pptx]</a>',
 	},
 	{
 		'title': 'Push-Recovery Stability of Biped Locomotion',
