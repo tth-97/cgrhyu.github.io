@@ -25,6 +25,20 @@ nav-menu: true
 
 <p/>
 
+<h2>Post Doc.</h2>
+<div class="row">
+	<div class="4u 12u$(small)">
+	<p>
+		<span class="image left"><img src="assets/people/wanuk-choi/wanuk-choi.png" style="max-width: 200px; height: auto; " alt="" /></span>
+		<b><a href="people/wanuk-choi.html">Wanuk Choi</a></b>
+		<font size="3">최완욱</font><br/>
+		dhksdnr2003@hanyang.ac.kr<br/>
+	</p>
+	</div>
+</div>
+
+<p/>
+
 <h2>Ph.D. Students</h2>
 <div class="row">
 	<div class="4u 12u$(small)">
