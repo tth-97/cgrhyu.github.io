@@ -136,13 +136,13 @@ nav-menu: true
 
 <h2>Undergraduate Students</h2>
 <div class="row">	
-	<div class="4u 12u$(small)">
+	<!-- div class="4u 12u$(small)">
 	<p>
 		<span class="image left"><img src="assets/people/minwoo-park/minwoo-park.jpg" style="max-width: 200px; height: auto; " alt="" /></span>
 		<b>Minwoo Park</b>
 		<font size="3">박민우</font><br/>
 	</p>
-	</div>
+	</div -->
 	
 	<div class="4u 12u$(small)">
 	<p>
