@@ -45,7 +45,7 @@ var publications_eng = [
 		'video_iframe': '<iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
 		'project_page': 'publications/2023-path-following.html',
 		'type': 'paper',
-        'additional': '<a href="https://ieeexplore.ieee.org/document/10029373" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029373" rel="noopener noreferrer" target="_blank">[paper]</a> <a href="https://youtu.be/N357UBDALpw" rel="noopener noreferrer" target="_blank">[video]</a>',
+        'additional': '<a href="https://ieeexplore.ieee.org/document/10029373" rel="noopener noreferrer" target="_blank">[publisher link]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10029373" rel="noopener noreferrer" target="_blank">[paper]</a> <a href="https://youtu.be/N357UBDALpw" rel="noopener noreferrer" target="_blank">[video]</a> <a href="https://github.com/jmmhappy/InteractiveCharacterPathFollowing" rel="noopener noreferrer" target="_blank">[code]</a>',
 	},
 	{
 		'title': 'Understanding the Stability of Deep Control Policies for Biped Locomotion ',

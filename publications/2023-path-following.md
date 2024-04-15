@@ -19,3 +19,6 @@ Open access paper: [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 <div id="iframe_container"> <div id="iframe">
 <iframe width="1536" height="864" src="https://www.youtube.com/embed/N357UBDALpw" title="Interactive Character Path-Following using Long-Horizon Motion Matching with Revised Future Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div></div>  
+
+## Code
+Github repository: [jmmhappy/InteractiveCharacterPathFollowing](https://github.com/jmmhappy/InteractiveCharacterPathFollowing)
